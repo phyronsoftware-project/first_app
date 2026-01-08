@@ -1,7 +1,4 @@
-import 'dart:nativewrappers/_internal/vm/lib/ffi_native_type_patch.dart';
-
-
-class Data{
+class Data {
   int id;
   String name;
   String img;
